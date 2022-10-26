@@ -2,7 +2,7 @@
 
 run the command "python3 api.py". This will create the flask server and then can be tested using postman
 
-3. # Endpoints
+# Endpoints
 
     http://localhost:5000/api/users (Get all users in database) (GET)
     http://localhost:5000/api/users/<user_id> (Get user by ID) (GET)
